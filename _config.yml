@@ -20,7 +20,7 @@ title                    : "dev_Ji Volg"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ji Yeun"
-description              : "An amazing website."
+description              : "Ji Yeun's website."
 url                      : "https://dev-Ji.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
