@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "!!dev_Ji Vlog!!"
+title                    : "dev_Ji Today"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ji Yeun"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Ji Yeun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "**amazing** person **JiYeun**"
   location         : "Somewhere"
   email            :
   links:
